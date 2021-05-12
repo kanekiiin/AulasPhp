@@ -1,0 +1,17 @@
+        .card {
+            width: 200px;
+            height: 500px;
+            border: solid 1px #ddd;
+            position: relative;
+            float: left;
+            padding: 10px;
+        }
+
+        .card img,
+        .card h5 {
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: 40%;
